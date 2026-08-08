@@ -1,4 +1,4 @@
-# Summer Session 2026
+# Summer Session 2026 (Credit to: Jonathan Williams, @cthonathon)
 
 This repository contains scripts and materials for a classroom project on Chicago restaurant inspections.  All data is created through API calls and processed through the scripts, so this repo does not keep a static copy of any data files.
 
